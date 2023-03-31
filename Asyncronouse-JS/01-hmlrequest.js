@@ -46,3 +46,8 @@ let getCountryData = (country = "pakistan") => {
 getCountryData();
 getCountryData("india");
 getCountryData("usa");
+
+// object new
+let country="Valencia";
+console.log(country);
+
